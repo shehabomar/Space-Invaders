@@ -20,7 +20,13 @@ run Space-Invaders
 3- To shot the enemies, you can press `space`
 
 # Screenshots
-
+### Game Start
 <a href="https://ibb.co/sF9mL7x">
  <img src="https://i.ibb.co/640n6Q9/the-game.png" alt="the-game" border="0" width = "801">
+</a>
+
+
+### Game Over
+<a href="https://ibb.co/8PLjyNM">
+  <img src="https://i.ibb.co/HGfrcB7/Screenshot-from-2023-08-17-17-51-22.png" alt="game-over" border="0" width="801">
 </a>
