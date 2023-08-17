@@ -19,3 +19,8 @@ run Space-Invaders
 2- You can move to left or right to kill enemies \
 3- To shot the enemies, you can press `space`
 
+# Screenshots
+
+<a href="https://ibb.co/sF9mL7x">
+ <img src="https://i.ibb.co/640n6Q9/the-game.png" alt="the-game" border="0" width = "801">
+</a>
